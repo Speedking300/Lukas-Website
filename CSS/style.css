@@ -4,3 +4,12 @@
     justify-content: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    scale: 2;
+    height: 10px;
+    
+}
