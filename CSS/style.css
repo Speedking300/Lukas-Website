@@ -26,6 +26,7 @@
     position: relative;
     top: 317px;
     right: 75px;
+    border-color: chartreuse;
 }
 
 .button1 :hover {
