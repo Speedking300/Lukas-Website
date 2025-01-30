@@ -11,5 +11,10 @@
     font-family: 'Times New Roman', Times, serif;
     scale: 2;
     height: 10px;
-    
+}
+
+.img1 {
+    position: relative;
+    left: 140px;
+    top: 100px;
 }
